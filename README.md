@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanishkaupadhyay
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Frontend Development Projects
 - 📫 How to reach me: Email me at kanishkaupadhyay199@gmail.com
 
